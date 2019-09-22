@@ -1,0 +1,5 @@
+#Universidad del Caribe #Carlos Eduardo Martinez Salgado #160300138 #IDEIO
+#!/bin/bash
+# Esto es un comentario
+echo "Hola mundo"
+

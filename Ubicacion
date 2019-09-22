@@ -1,0 +1,53 @@
+Universidad del Caribe 
+Ingenieria en Datos e Inteligencia Organizacional
+Carlos Eduardo Martinez Salgado / 160300138
+
+Este documento tiene el contenido en lista de cada uno de los ejemplos con sus respectivas pruebas.
+
+1.HolaMundo ---> Contiene el Hola Mundo más básico de todos--->Su prueba está en Prueba_HolaMundo.png
+
+2.VariableHM ----> Contiene el Hola Mundo pero usando una variable--->Su prueba está en Prueba_VariableHM.png
+
+3.Variables ---->Ejemplo del uso de variables--->Su prueba está en Prueba_Variables.png
+
+4.arrays --->Ejmplo del uso y declaración de arrays --->Su prueba está en Prueba_arrays.png
+
+5.arrayOtroUso---->Usos de variables en el array ---->Su prueba está en Prueba_arrayOtroUso.png
+
+6.Oaritmeticas --->OPeraciones entre variables---> Su prueba está en Prueba_Oaritmetica.png
+
+7.OLogica ----> Operaciones Logicas----> Su prueba está en Prueba_OLogica.png
+
+8.Ocondicionales ---->Usando el If de condicion
+
+9.IfComprobacion ----->Comprobacion de ficheros ---->Su prueba está en Prueba_IfComprobacion.png
+
+10.Case ----->Switch-case ---->Su prueba está en Prueba_Case.png
+
+11. for --->Ciclo for,Aunque se pueden crear los típicos for que se inicializan con un valor y se hacen
+ejecutar x veces---->SU prueba está en Prueba_for.png
+
+12.while---> Ciclo while,Muchas veces nos interesa una iteración sin un número de vueltas fijo, que
+simplemente dependa de una condición---Su prueba está en Prueba_while.png
+
+13.until--->Until es similar a while, salvo que su ejecución se detiene de forma inversa
+
+14.select--->Creación de menús de forma más cómoda--->Su prueba está en Prueba_select.png
+
+15.FUnciones---->Para estructurar mejor el código, dividir las partes complicadas e incluso reutilizar
+funcionalidades podemos crear---->Su prueba está en Prueba_FUnciones.png
+
+16.Librerias--->A la hora de programar scripts de shell no es que existan herramientas para
+declarar librerías, pero se pueden simular de cierta manera metiendo código de
+funciones en ficheros de scripts separados---->Su prueba está en Prueba_Librerias.png
+
+17.Señales---->Las señales son un método de los sistemas linux para intercomunicar procesos.
+Las señales más frecuentes usadas por los usuarios son las de cancelar y matar
+procesos. Pero hay más y los procesos linux son capaces de capturar las señales
+para modificar su comportamiento----->Su prueba está en Prueba_Señales.png
+
+
+18.Colores----->Usando la opción -e del comando echo podemos cambiar los colores de la
+terminal. Se puede hacer de forma controlada, estableciendo un color y
+restableciendo el color anterior para cambiar colores puntualmente. Para los
+colores se usan los códigos ANSI -----> SU prueba está en Prueba_Colores.png
